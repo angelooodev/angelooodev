@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello World, I'm Angelo
 🔭 I’m currently working on a psychological horror game with a VHS-style aesthetic and ReactJS-based web tools.<br>🌱 I'm currently learning to bridge the gap between foundational IT concepts and AI-efficient coding.<br>📫 Let's connect! > 📧 Email: angelooo.dev@gmail.com
 
 
